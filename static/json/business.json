@@ -1,0 +1,2084 @@
+{
+  "business": [
+    {
+      "title": "爱尚果园",
+      "img": "https://xiaowu0371.github.io/static/img/restaurant/1.jpg",
+      "level": 4,
+      "salesVolume": 3978,
+      "delivery": 6,
+      "minConsumption": 20,
+      "distance": 789,
+      "time": 37,
+      "brand": false,
+      "service": false,
+      "isFengNiao": false,
+      "onTime": true,
+      "food": [
+        {
+          "name": "热销榜",
+          "number": 2,
+          "title": "没有什么比人气更能说明问题。",
+          "menu": [
+            {
+              "id": 1,
+              "name": "黄焖鸡",
+              "img": "https://xiaowu0371.github.io/static/img/foot/hmj.jpg",
+              "salesVolume": "345",
+              "evaluation": "90%",
+              "price": "22",
+              "chooseCount": 0
+            },
+            {
+              "id": 2,
+              "name": "麻辣香锅",
+              "img": "https://xiaowu0371.github.io/static/img/foot/mlt.png",
+              "salesVolume": "65",
+              "evaluation": "94%",
+              "price": [
+                {
+                  "id": 1,
+                  "title": "快乐单身",
+                  "minPrice": "20",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 2,
+                  "title": "甜蜜双人",
+                  "minPrice": "29",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 3,
+                  "title": "伙伴参",
+                  "minPrice": "40",
+                  "chooseCount": 0
+                }
+              ],
+              "chooseCount": 0
+            },
+            {
+              "id": 3,
+              "name": "红烧排骨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/hrpg.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "31"
+            }
+          ]
+        },
+        {
+          "name": "优惠",
+          "number": 3,
+          "title": "十周年庆，点餐送饮料一瓶！",
+          "menu": [
+            {
+              "id": 4,
+              "name": "干锅豆腐",
+              "img": "https://xiaowu0371.github.io/static/img/foot/ggdf.png",
+              "salesVolume": "345",
+              "evaluation": "90%",
+              "chooseCount": 0,
+              "price": "21"
+            },
+            {
+              "id": 5,
+              "name": "特惠午餐",
+              "img": "https://xiaowu0371.github.io/static/img/foot/dcf.png",
+              "salesVolume": "65",
+              "evaluation": "94%",
+              "chooseCount": 0,
+              "price": [
+                {
+                  "id": 1,
+                  "title": "基础套餐",
+                  "minPrice": "15",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 2,
+                  "title": "中级套餐",
+                  "minPrice": "25",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 3,
+                  "title": "高级套餐",
+                  "minPrice": "30"
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "name": "干锅丫头",
+              "img": "https://xiaowu0371.github.io/static/img/foot/ggyt.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "20"
+            },
+            {
+              "id": 7,
+              "name": "麻辣小龙虾",
+              "img": "https://xiaowu0371.github.io/static/img/foot/mlxlx.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "58"
+            }
+          ]
+        },
+        {
+          "name": "经典套餐",
+          "number": 0,
+          "title": "经典夏日套餐，冰爽特惠！"
+        },
+        {
+          "name": "新品披萨限时特会",
+          "number": 0,
+          "title": "先人一步，体会不一样的味道。",
+          "menu": [
+            {
+              "id": 1,
+              "name": "鲜虾披萨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/pz.png",
+              "salesVolume": "345",
+              "evaluation": "90%",
+              "price": "52",
+              "chooseCount": 0
+            },
+            {
+              "id": 2,
+              "name": "意大利风味披萨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/pz.png",
+              "salesVolume": "65",
+              "evaluation": "94%",
+              "price": [
+                {
+                  "id": 1,
+                  "title": "小份",
+                  "minPrice": "30",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 2,
+                  "title": "中分",
+                  "minPrice": "50",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 3,
+                  "title": "大份",
+                  "minPrice": "100",
+                  "chooseCount": 0
+                }
+              ],
+              "chooseCount": 0
+            },
+            {
+              "id": 3,
+              "name": "腊肠风味披萨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/pz.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "51"
+            }
+          ]
+        },
+        {
+          "name": "年夜饭",
+          "number": 0,
+          "title": "祝大家新快乐，万事如意。"
+        },
+        {
+          "name": "意面",
+          "number": 0,
+          "title": "经典意面，值得你拥有。"
+        },
+        {
+          "name": "披萨",
+          "number": 0,
+          "title": "鲜虾披萨，第二份半价。"
+        },
+        {
+          "name": "饮品",
+          "number": 0,
+          "title": "夏日最爱，酸梅汤免费送。"
+        }
+      ]
+    },
+    {
+      "title": "尚滋味小龙虾主题餐厅",
+      "img": "https://xiaowu0371.github.io/static/img/restaurant/2.jpg",
+      "level": 4,
+      "salesVolume": 3978,
+      "delivery": 4,
+      "minConsumption": 20,
+      "distance": 789,
+      "time": 37,
+      "brand": true,
+      "service": false,
+      "isFengNiao": true,
+      "onTime": false,
+      "food": [
+        {
+          "name": "热销榜",
+          "number": 2,
+          "title": "没有什么比人气更能说明问题。",
+          "menu": [
+            {
+              "id": 1,
+              "name": "黄焖鸡",
+              "img": "https://xiaowu0371.github.io/static/img/foot/hmj.jpg",
+              "salesVolume": "345",
+              "evaluation": "90%",
+              "price": "22",
+              "chooseCount": 0
+            },
+            {
+              "id": 2,
+              "name": "麻辣香锅",
+              "img": "https://xiaowu0371.github.io/static/img/foot/mlt.png",
+              "salesVolume": "65",
+              "evaluation": "94%",
+              "price": [
+                {
+                  "id": 1,
+                  "title": "快乐单身",
+                  "minPrice": "20",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 2,
+                  "title": "甜蜜双人",
+                  "minPrice": "29",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 3,
+                  "title": "伙伴参",
+                  "minPrice": "40",
+                  "chooseCount": 0
+                }
+              ],
+              "chooseCount": 0
+            },
+            {
+              "id": 3,
+              "name": "红烧排骨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/hrpg.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "31"
+            }
+          ]
+        },
+        {
+          "name": "优惠",
+          "number": 3,
+          "title": "十周年庆，点餐送饮料一瓶！",
+          "menu": [
+            {
+              "id": 4,
+              "name": "干锅豆腐",
+              "img": "https://xiaowu0371.github.io/static/img/foot/ggdf.png",
+              "salesVolume": "345",
+              "evaluation": "90%",
+              "chooseCount": 0,
+              "price": "21"
+            },
+            {
+              "id": 5,
+              "name": "特惠午餐",
+              "img": "https://xiaowu0371.github.io/static/img/foot/dcf.png",
+              "salesVolume": "65",
+              "evaluation": "94%",
+              "chooseCount": 0,
+              "price": [
+                {
+                  "id": 1,
+                  "title": "基础套餐",
+                  "minPrice": "15",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 2,
+                  "title": "中级套餐",
+                  "minPrice": "25",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 3,
+                  "title": "高级套餐",
+                  "minPrice": "30"
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "name": "干锅丫头",
+              "img": "https://xiaowu0371.github.io/static/img/foot/ggyt.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "20"
+            },
+            {
+              "id": 7,
+              "name": "麻辣小龙虾",
+              "img": "https://xiaowu0371.github.io/static/img/foot/mlxlx.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "58"
+            }
+          ]
+        },
+        {
+          "name": "经典套餐",
+          "number": 0,
+          "title": "经典夏日套餐，冰爽特惠！"
+        },
+        {
+          "name": "新品披萨限时特会",
+          "number": 0,
+          "title": "先人一步，体会不一样的味道。",
+          "menu": [
+            {
+              "id": 1,
+              "name": "鲜虾披萨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/pz.png",
+              "salesVolume": "345",
+              "evaluation": "90%",
+              "price": "52",
+              "chooseCount": 0
+            },
+            {
+              "id": 2,
+              "name": "意大利风味披萨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/pz.png",
+              "salesVolume": "65",
+              "evaluation": "94%",
+              "price": [
+                {
+                  "id": 1,
+                  "title": "小份",
+                  "minPrice": "30",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 2,
+                  "title": "中分",
+                  "minPrice": "50",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 3,
+                  "title": "大份",
+                  "minPrice": "100",
+                  "chooseCount": 0
+                }
+              ],
+              "chooseCount": 0
+            },
+            {
+              "id": 3,
+              "name": "腊肠风味披萨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/pz.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "51"
+            }
+          ]
+        },
+        {
+          "name": "年夜饭",
+          "number": 0,
+          "title": "祝大家新快乐，万事如意。"
+        },
+        {
+          "name": "意面",
+          "number": 0,
+          "title": "经典意面，值得你拥有。"
+        },
+        {
+          "name": "披萨",
+          "number": 0,
+          "title": "鲜虾披萨，第二份半价。"
+        },
+        {
+          "name": "饮品",
+          "number": 0,
+          "title": "夏日最爱，酸梅汤免费送。"
+        }
+      ]
+    },
+    {
+      "title": "杨国富麻辣烫",
+      "img": "https://xiaowu0371.github.io/static/img/restaurant/3.jpg",
+      "level": 4,
+      "salesVolume": 3978,
+      "delivery": 4,
+      "minConsumption": 20,
+      "distance": 789,
+      "time": 37,
+      "brand": false,
+      "service": true,
+      "isFengNiao": false,
+      "onTime": false,
+      "food": [
+        {
+          "name": "热销榜",
+          "number": 2,
+          "title": "没有什么比人气更能说明问题。",
+          "menu": [
+            {
+              "id": 1,
+              "name": "黄焖鸡",
+              "img": "https://xiaowu0371.github.io/static/img/foot/hmj.jpg",
+              "salesVolume": "345",
+              "evaluation": "90%",
+              "price": "22",
+              "chooseCount": 0
+            },
+            {
+              "id": 2,
+              "name": "麻辣香锅",
+              "img": "https://xiaowu0371.github.io/static/img/foot/mlt.png",
+              "salesVolume": "65",
+              "evaluation": "94%",
+              "price": [
+                {
+                  "id": 1,
+                  "title": "快乐单身",
+                  "minPrice": "20",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 2,
+                  "title": "甜蜜双人",
+                  "minPrice": "29",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 3,
+                  "title": "伙伴参",
+                  "minPrice": "40",
+                  "chooseCount": 0
+                }
+              ],
+              "chooseCount": 0
+            },
+            {
+              "id": 3,
+              "name": "红烧排骨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/hrpg.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "31"
+            }
+          ]
+        },
+        {
+          "name": "优惠",
+          "number": 3,
+          "title": "十周年庆，点餐送饮料一瓶！",
+          "menu": [
+            {
+              "id": 4,
+              "name": "干锅豆腐",
+              "img": "https://xiaowu0371.github.io/static/img/foot/ggdf.png",
+              "salesVolume": "345",
+              "evaluation": "90%",
+              "chooseCount": 0,
+              "price": "21"
+            },
+            {
+              "id": 5,
+              "name": "特惠午餐",
+              "img": "https://xiaowu0371.github.io/static/img/foot/dcf.png",
+              "salesVolume": "65",
+              "evaluation": "94%",
+              "chooseCount": 0,
+              "price": [
+                {
+                  "id": 1,
+                  "title": "基础套餐",
+                  "minPrice": "15",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 2,
+                  "title": "中级套餐",
+                  "minPrice": "25",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 3,
+                  "title": "高级套餐",
+                  "minPrice": "30"
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "name": "干锅丫头",
+              "img": "https://xiaowu0371.github.io/static/img/foot/ggyt.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "20"
+            },
+            {
+              "id": 7,
+              "name": "麻辣小龙虾",
+              "img": "https://xiaowu0371.github.io/static/img/foot/mlxlx.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "58"
+            }
+          ]
+        },
+        {
+          "name": "经典套餐",
+          "number": 0,
+          "title": "经典夏日套餐，冰爽特惠！"
+        },
+        {
+          "name": "新品披萨限时特会",
+          "number": 0,
+          "title": "先人一步，体会不一样的味道。",
+          "menu": [
+            {
+              "id": 1,
+              "name": "鲜虾披萨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/pz.png",
+              "salesVolume": "345",
+              "evaluation": "90%",
+              "price": "52",
+              "chooseCount": 0
+            },
+            {
+              "id": 2,
+              "name": "意大利风味披萨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/pz.png",
+              "salesVolume": "65",
+              "evaluation": "94%",
+              "price": [
+                {
+                  "id": 1,
+                  "title": "小份",
+                  "minPrice": "30",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 2,
+                  "title": "中分",
+                  "minPrice": "50",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 3,
+                  "title": "大份",
+                  "minPrice": "100",
+                  "chooseCount": 0
+                }
+              ],
+              "chooseCount": 0
+            },
+            {
+              "id": 3,
+              "name": "腊肠风味披萨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/pz.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "51"
+            }
+          ]
+        },
+        {
+          "name": "年夜饭",
+          "number": 0,
+          "title": "祝大家新快乐，万事如意。"
+        },
+        {
+          "name": "意面",
+          "number": 0,
+          "title": "经典意面，值得你拥有。"
+        },
+        {
+          "name": "披萨",
+          "number": 0,
+          "title": "鲜虾披萨，第二份半价。"
+        },
+        {
+          "name": "饮品",
+          "number": 0,
+          "title": "夏日最爱，酸梅汤免费送。"
+        }
+      ]
+    },
+    {
+      "title": "巫山烤全鱼（中关村店）",
+      "img": "https://xiaowu0371.github.io/static/img/restaurant/4.jpg",
+      "level": 4,
+      "salesVolume": 3978,
+      "delivery": 8,
+      "minConsumption": 20,
+      "distance": 789,
+      "time": 37,
+      "brand": true,
+      "service": true,
+      "isFengNiao": true,
+      "onTime": false,
+      "food": [
+        {
+          "name": "热销榜",
+          "number": 2,
+          "title": "没有什么比人气更能说明问题。",
+          "menu": [
+            {
+              "id": 1,
+              "name": "黄焖鸡",
+              "img": "https://xiaowu0371.github.io/static/img/foot/hmj.jpg",
+              "salesVolume": "345",
+              "evaluation": "90%",
+              "price": "22",
+              "chooseCount": 0
+            },
+            {
+              "id": 2,
+              "name": "麻辣香锅",
+              "img": "https://xiaowu0371.github.io/static/img/foot/mlt.png",
+              "salesVolume": "65",
+              "evaluation": "94%",
+              "price": [
+                {
+                  "id": 1,
+                  "title": "快乐单身",
+                  "minPrice": "20",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 2,
+                  "title": "甜蜜双人",
+                  "minPrice": "29",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 3,
+                  "title": "伙伴参",
+                  "minPrice": "40",
+                  "chooseCount": 0
+                }
+              ],
+              "chooseCount": 0
+            },
+            {
+              "id": 3,
+              "name": "红烧排骨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/hrpg.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "31"
+            }
+          ]
+        },
+        {
+          "name": "优惠",
+          "number": 3,
+          "title": "十周年庆，点餐送饮料一瓶！",
+          "menu": [
+            {
+              "id": 4,
+              "name": "干锅豆腐",
+              "img": "https://xiaowu0371.github.io/static/img/foot/ggdf.png",
+              "salesVolume": "345",
+              "evaluation": "90%",
+              "chooseCount": 0,
+              "price": "21"
+            },
+            {
+              "id": 5,
+              "name": "特惠午餐",
+              "img": "https://xiaowu0371.github.io/static/img/foot/dcf.png",
+              "salesVolume": "65",
+              "evaluation": "94%",
+              "chooseCount": 0,
+              "price": [
+                {
+                  "id": 1,
+                  "title": "基础套餐",
+                  "minPrice": "15",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 2,
+                  "title": "中级套餐",
+                  "minPrice": "25",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 3,
+                  "title": "高级套餐",
+                  "minPrice": "30"
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "name": "干锅丫头",
+              "img": "https://xiaowu0371.github.io/static/img/foot/ggyt.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "20"
+            },
+            {
+              "id": 7,
+              "name": "麻辣小龙虾",
+              "img": "https://xiaowu0371.github.io/static/img/foot/mlxlx.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "58"
+            }
+          ]
+        },
+        {
+          "name": "经典套餐",
+          "number": 0,
+          "title": "经典夏日套餐，冰爽特惠！"
+        },
+        {
+          "name": "新品披萨限时特会",
+          "number": 0,
+          "title": "先人一步，体会不一样的味道。",
+          "menu": [
+            {
+              "id": 1,
+              "name": "鲜虾披萨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/pz.png",
+              "salesVolume": "345",
+              "evaluation": "90%",
+              "price": "52",
+              "chooseCount": 0
+            },
+            {
+              "id": 2,
+              "name": "意大利风味披萨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/pz.png",
+              "salesVolume": "65",
+              "evaluation": "94%",
+              "price": [
+                {
+                  "id": 1,
+                  "title": "小份",
+                  "minPrice": "30",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 2,
+                  "title": "中分",
+                  "minPrice": "50",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 3,
+                  "title": "大份",
+                  "minPrice": "100",
+                  "chooseCount": 0
+                }
+              ],
+              "chooseCount": 0
+            },
+            {
+              "id": 3,
+              "name": "腊肠风味披萨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/pz.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "51"
+            }
+          ]
+        },
+        {
+          "name": "年夜饭",
+          "number": 0,
+          "title": "祝大家新快乐，万事如意。"
+        },
+        {
+          "name": "意面",
+          "number": 0,
+          "title": "经典意面，值得你拥有。"
+        },
+        {
+          "name": "披萨",
+          "number": 0,
+          "title": "鲜虾披萨，第二份半价。"
+        },
+        {
+          "name": "饮品",
+          "number": 0,
+          "title": "夏日最爱，酸梅汤免费送。"
+        }
+      ]
+    },
+    {
+      "title": "张亮麻辣烫（上地店）",
+      "img": "https://xiaowu0371.github.io/static/img/restaurant/5.jpg",
+      "level": 4,
+      "salesVolume": 3978,
+      "delivery": 4,
+      "minConsumption": 20,
+      "distance": 789,
+      "time": 37,
+      "brand": false,
+      "service": false,
+      "isFengNiao": true,
+      "onTime": true,
+      "food": [
+        {
+          "name": "热销榜",
+          "number": 2,
+          "title": "没有什么比人气更能说明问题。",
+          "menu": [
+            {
+              "id": 1,
+              "name": "黄焖鸡",
+              "img": "https://xiaowu0371.github.io/static/img/foot/hmj.jpg",
+              "salesVolume": "345",
+              "evaluation": "90%",
+              "price": "22",
+              "chooseCount": 0
+            },
+            {
+              "id": 2,
+              "name": "麻辣香锅",
+              "img": "https://xiaowu0371.github.io/static/img/foot/mlt.png",
+              "salesVolume": "65",
+              "evaluation": "94%",
+              "price": [
+                {
+                  "id": 1,
+                  "title": "快乐单身",
+                  "minPrice": "20",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 2,
+                  "title": "甜蜜双人",
+                  "minPrice": "29",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 3,
+                  "title": "伙伴参",
+                  "minPrice": "40",
+                  "chooseCount": 0
+                }
+              ],
+              "chooseCount": 0
+            },
+            {
+              "id": 3,
+              "name": "红烧排骨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/hrpg.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "31"
+            }
+          ]
+        },
+        {
+          "name": "优惠",
+          "number": 3,
+          "title": "十周年庆，点餐送饮料一瓶！",
+          "menu": [
+            {
+              "id": 4,
+              "name": "干锅豆腐",
+              "img": "https://xiaowu0371.github.io/static/img/foot/ggdf.png",
+              "salesVolume": "345",
+              "evaluation": "90%",
+              "chooseCount": 0,
+              "price": "21"
+            },
+            {
+              "id": 5,
+              "name": "特惠午餐",
+              "img": "https://xiaowu0371.github.io/static/img/foot/dcf.png",
+              "salesVolume": "65",
+              "evaluation": "94%",
+              "chooseCount": 0,
+              "price": [
+                {
+                  "id": 1,
+                  "title": "基础套餐",
+                  "minPrice": "15",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 2,
+                  "title": "中级套餐",
+                  "minPrice": "25",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 3,
+                  "title": "高级套餐",
+                  "minPrice": "30"
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "name": "干锅丫头",
+              "img": "https://xiaowu0371.github.io/static/img/foot/ggyt.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "20"
+            },
+            {
+              "id": 7,
+              "name": "麻辣小龙虾",
+              "img": "https://xiaowu0371.github.io/static/img/foot/mlxlx.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "58"
+            }
+          ]
+        },
+        {
+          "name": "经典套餐",
+          "number": 0,
+          "title": "经典夏日套餐，冰爽特惠！"
+        },
+        {
+          "name": "新品披萨限时特会",
+          "number": 0,
+          "title": "先人一步，体会不一样的味道。",
+          "menu": [
+            {
+              "id": 1,
+              "name": "鲜虾披萨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/pz.png",
+              "salesVolume": "345",
+              "evaluation": "90%",
+              "price": "52",
+              "chooseCount": 0
+            },
+            {
+              "id": 2,
+              "name": "意大利风味披萨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/pz.png",
+              "salesVolume": "65",
+              "evaluation": "94%",
+              "price": [
+                {
+                  "id": 1,
+                  "title": "小份",
+                  "minPrice": "30",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 2,
+                  "title": "中分",
+                  "minPrice": "50",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 3,
+                  "title": "大份",
+                  "minPrice": "100",
+                  "chooseCount": 0
+                }
+              ],
+              "chooseCount": 0
+            },
+            {
+              "id": 3,
+              "name": "腊肠风味披萨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/pz.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "51"
+            }
+          ]
+        },
+        {
+          "name": "年夜饭",
+          "number": 0,
+          "title": "祝大家新快乐，万事如意。"
+        },
+        {
+          "name": "意面",
+          "number": 0,
+          "title": "经典意面，值得你拥有。"
+        },
+        {
+          "name": "披萨",
+          "number": 0,
+          "title": "鲜虾披萨，第二份半价。"
+        },
+        {
+          "name": "饮品",
+          "number": 0,
+          "title": "夏日最爱，酸梅汤免费送。"
+        }
+      ]
+    },
+    {
+      "title": "官氏翅吧",
+      "img": "https://xiaowu0371.github.io/static/img/restaurant/6.jpg",
+      "level": 4,
+      "salesVolume": 3978,
+      "delivery": 4,
+      "minConsumption": 20,
+      "distance": 789,
+      "time": 37,
+      "brand": false,
+      "service": false,
+      "isFengNiao": true,
+      "onTime": true,
+      "food": [
+        {
+          "name": "热销榜",
+          "number": 2,
+          "title": "没有什么比人气更能说明问题。",
+          "menu": [
+            {
+              "id": 1,
+              "name": "黄焖鸡",
+              "img": "https://xiaowu0371.github.io/static/img/foot/hmj.jpg",
+              "salesVolume": "345",
+              "evaluation": "90%",
+              "price": "22",
+              "chooseCount": 0
+            },
+            {
+              "id": 2,
+              "name": "麻辣香锅",
+              "img": "https://xiaowu0371.github.io/static/img/foot/mlt.png",
+              "salesVolume": "65",
+              "evaluation": "94%",
+              "price": [
+                {
+                  "id": 1,
+                  "title": "快乐单身",
+                  "minPrice": "20",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 2,
+                  "title": "甜蜜双人",
+                  "minPrice": "29",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 3,
+                  "title": "伙伴参",
+                  "minPrice": "40",
+                  "chooseCount": 0
+                }
+              ],
+              "chooseCount": 0
+            },
+            {
+              "id": 3,
+              "name": "红烧排骨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/hrpg.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "31"
+            }
+          ]
+        },
+        {
+          "name": "优惠",
+          "number": 3,
+          "title": "十周年庆，点餐送饮料一瓶！",
+          "menu": [
+            {
+              "id": 4,
+              "name": "干锅豆腐",
+              "img": "https://xiaowu0371.github.io/static/img/foot/ggdf.png",
+              "salesVolume": "345",
+              "evaluation": "90%",
+              "chooseCount": 0,
+              "price": "21"
+            },
+            {
+              "id": 5,
+              "name": "特惠午餐",
+              "img": "https://xiaowu0371.github.io/static/img/foot/dcf.png",
+              "salesVolume": "65",
+              "evaluation": "94%",
+              "chooseCount": 0,
+              "price": [
+                {
+                  "id": 1,
+                  "title": "基础套餐",
+                  "minPrice": "15",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 2,
+                  "title": "中级套餐",
+                  "minPrice": "25",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 3,
+                  "title": "高级套餐",
+                  "minPrice": "30"
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "name": "干锅丫头",
+              "img": "https://xiaowu0371.github.io/static/img/foot/ggyt.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "20"
+            },
+            {
+              "id": 7,
+              "name": "麻辣小龙虾",
+              "img": "https://xiaowu0371.github.io/static/img/foot/mlxlx.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "58"
+            }
+          ]
+        },
+        {
+          "name": "经典套餐",
+          "number": 0,
+          "title": "经典夏日套餐，冰爽特惠！"
+        },
+        {
+          "name": "新品披萨限时特会",
+          "number": 0,
+          "title": "先人一步，体会不一样的味道。",
+          "menu": [
+            {
+              "id": 1,
+              "name": "鲜虾披萨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/pz.png",
+              "salesVolume": "345",
+              "evaluation": "90%",
+              "price": "52",
+              "chooseCount": 0
+            },
+            {
+              "id": 2,
+              "name": "意大利风味披萨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/pz.png",
+              "salesVolume": "65",
+              "evaluation": "94%",
+              "price": [
+                {
+                  "id": 1,
+                  "title": "小份",
+                  "minPrice": "30",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 2,
+                  "title": "中分",
+                  "minPrice": "50",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 3,
+                  "title": "大份",
+                  "minPrice": "100",
+                  "chooseCount": 0
+                }
+              ],
+              "chooseCount": 0
+            },
+            {
+              "id": 3,
+              "name": "腊肠风味披萨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/pz.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "51"
+            }
+          ]
+        },
+        {
+          "name": "年夜饭",
+          "number": 0,
+          "title": "祝大家新快乐，万事如意。"
+        },
+        {
+          "name": "意面",
+          "number": 0,
+          "title": "经典意面，值得你拥有。"
+        },
+        {
+          "name": "披萨",
+          "number": 0,
+          "title": "鲜虾披萨，第二份半价。"
+        },
+        {
+          "name": "饮品",
+          "number": 0,
+          "title": "夏日最爱，酸梅汤免费送。"
+        }
+      ]
+    },
+    {
+      "title": "卤味滋",
+      "img": "https://xiaowu0371.github.io/static/img/restaurant/7.jpg",
+      "level": 4,
+      "salesVolume": 3978,
+      "delivery": 4,
+      "minConsumption": 20,
+      "distance": 789,
+      "time": 37,
+      "brand": false,
+      "service": false,
+      "isFengNiao": true,
+      "onTime": true,
+      "food": [
+        {
+          "name": "热销榜",
+          "number": 2,
+          "title": "没有什么比人气更能说明问题。",
+          "menu": [
+            {
+              "id": 1,
+              "name": "黄焖鸡",
+              "img": "https://xiaowu0371.github.io/static/img/foot/hmj.jpg",
+              "salesVolume": "345",
+              "evaluation": "90%",
+              "price": "22",
+              "chooseCount": 0
+            },
+            {
+              "id": 2,
+              "name": "麻辣香锅",
+              "img": "https://xiaowu0371.github.io/static/img/foot/mlt.png",
+              "salesVolume": "65",
+              "evaluation": "94%",
+              "price": [
+                {
+                  "id": 1,
+                  "title": "快乐单身",
+                  "minPrice": "20",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 2,
+                  "title": "甜蜜双人",
+                  "minPrice": "29",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 3,
+                  "title": "伙伴参",
+                  "minPrice": "40",
+                  "chooseCount": 0
+                }
+              ],
+              "chooseCount": 0
+            },
+            {
+              "id": 3,
+              "name": "红烧排骨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/hrpg.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "31"
+            }
+          ]
+        },
+        {
+          "name": "优惠",
+          "number": 3,
+          "title": "十周年庆，点餐送饮料一瓶！",
+          "menu": [
+            {
+              "id": 4,
+              "name": "干锅豆腐",
+              "img": "https://xiaowu0371.github.io/static/img/foot/ggdf.png",
+              "salesVolume": "345",
+              "evaluation": "90%",
+              "chooseCount": 0,
+              "price": "21"
+            },
+            {
+              "id": 5,
+              "name": "特惠午餐",
+              "img": "https://xiaowu0371.github.io/static/img/foot/dcf.png",
+              "salesVolume": "65",
+              "evaluation": "94%",
+              "chooseCount": 0,
+              "price": [
+                {
+                  "id": 1,
+                  "title": "基础套餐",
+                  "minPrice": "15",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 2,
+                  "title": "中级套餐",
+                  "minPrice": "25",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 3,
+                  "title": "高级套餐",
+                  "minPrice": "30"
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "name": "干锅丫头",
+              "img": "https://xiaowu0371.github.io/static/img/foot/ggyt.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "20"
+            },
+            {
+              "id": 7,
+              "name": "麻辣小龙虾",
+              "img": "https://xiaowu0371.github.io/static/img/foot/mlxlx.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "58"
+            }
+          ]
+        },
+        {
+          "name": "经典套餐",
+          "number": 0,
+          "title": "经典夏日套餐，冰爽特惠！"
+        },
+        {
+          "name": "新品披萨限时特会",
+          "number": 0,
+          "title": "先人一步，体会不一样的味道。",
+          "menu": [
+            {
+              "id": 1,
+              "name": "鲜虾披萨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/pz.png",
+              "salesVolume": "345",
+              "evaluation": "90%",
+              "price": "52",
+              "chooseCount": 0
+            },
+            {
+              "id": 2,
+              "name": "意大利风味披萨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/pz.png",
+              "salesVolume": "65",
+              "evaluation": "94%",
+              "price": [
+                {
+                  "id": 1,
+                  "title": "小份",
+                  "minPrice": "30",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 2,
+                  "title": "中分",
+                  "minPrice": "50",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 3,
+                  "title": "大份",
+                  "minPrice": "100",
+                  "chooseCount": 0
+                }
+              ],
+              "chooseCount": 0
+            },
+            {
+              "id": 3,
+              "name": "腊肠风味披萨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/pz.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "51"
+            }
+          ]
+        },
+        {
+          "name": "年夜饭",
+          "number": 0,
+          "title": "祝大家新快乐，万事如意。"
+        },
+        {
+          "name": "意面",
+          "number": 0,
+          "title": "经典意面，值得你拥有。"
+        },
+        {
+          "name": "披萨",
+          "number": 0,
+          "title": "鲜虾披萨，第二份半价。"
+        },
+        {
+          "name": "饮品",
+          "number": 0,
+          "title": "夏日最爱，酸梅汤免费送。"
+        }
+      ]
+    },
+    {
+      "title": "北京烤鸭（中关村店）",
+      "img": "https://xiaowu0371.github.io/static/img/restaurant/8.jpg",
+      "level": 4,
+      "salesVolume": 3978,
+      "delivery": 4,
+      "minConsumption": 20,
+      "distance": 789,
+      "time": 37,
+      "brand": false,
+      "service": false,
+      "isFengNiao": true,
+      "onTime": true,
+      "food": [
+        {
+          "name": "热销榜",
+          "number": 2,
+          "title": "没有什么比人气更能说明问题。",
+          "menu": [
+            {
+              "id": 1,
+              "name": "黄焖鸡",
+              "img": "https://xiaowu0371.github.io/static/img/foot/hmj.jpg",
+              "salesVolume": "345",
+              "evaluation": "90%",
+              "price": "22",
+              "chooseCount": 0
+            },
+            {
+              "id": 2,
+              "name": "麻辣香锅",
+              "img": "https://xiaowu0371.github.io/static/img/foot/mlt.png",
+              "salesVolume": "65",
+              "evaluation": "94%",
+              "price": [
+                {
+                  "id": 1,
+                  "title": "快乐单身",
+                  "minPrice": "20",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 2,
+                  "title": "甜蜜双人",
+                  "minPrice": "29",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 3,
+                  "title": "伙伴参",
+                  "minPrice": "40",
+                  "chooseCount": 0
+                }
+              ],
+              "chooseCount": 0
+            },
+            {
+              "id": 3,
+              "name": "红烧排骨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/hrpg.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "31"
+            }
+          ]
+        },
+        {
+          "name": "优惠",
+          "number": 3,
+          "title": "十周年庆，点餐送饮料一瓶！",
+          "menu": [
+            {
+              "id": 4,
+              "name": "干锅豆腐",
+              "img": "https://xiaowu0371.github.io/static/img/foot/ggdf.png",
+              "salesVolume": "345",
+              "evaluation": "90%",
+              "chooseCount": 0,
+              "price": "21"
+            },
+            {
+              "id": 5,
+              "name": "特惠午餐",
+              "img": "https://xiaowu0371.github.io/static/img/foot/dcf.png",
+              "salesVolume": "65",
+              "evaluation": "94%",
+              "chooseCount": 0,
+              "price": [
+                {
+                  "id": 1,
+                  "title": "基础套餐",
+                  "minPrice": "15",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 2,
+                  "title": "中级套餐",
+                  "minPrice": "25",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 3,
+                  "title": "高级套餐",
+                  "minPrice": "30"
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "name": "干锅丫头",
+              "img": "https://xiaowu0371.github.io/static/img/foot/ggyt.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "20"
+            },
+            {
+              "id": 7,
+              "name": "麻辣小龙虾",
+              "img": "https://xiaowu0371.github.io/static/img/foot/mlxlx.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "58"
+            }
+          ]
+        },
+        {
+          "name": "经典套餐",
+          "number": 0,
+          "title": "经典夏日套餐，冰爽特惠！"
+        },
+        {
+          "name": "新品披萨限时特会",
+          "number": 0,
+          "title": "先人一步，体会不一样的味道。",
+          "menu": [
+            {
+              "id": 1,
+              "name": "鲜虾披萨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/pz.png",
+              "salesVolume": "345",
+              "evaluation": "90%",
+              "price": "52",
+              "chooseCount": 0
+            },
+            {
+              "id": 2,
+              "name": "意大利风味披萨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/pz.png",
+              "salesVolume": "65",
+              "evaluation": "94%",
+              "price": [
+                {
+                  "id": 1,
+                  "title": "小份",
+                  "minPrice": "30",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 2,
+                  "title": "中分",
+                  "minPrice": "50",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 3,
+                  "title": "大份",
+                  "minPrice": "100",
+                  "chooseCount": 0
+                }
+              ],
+              "chooseCount": 0
+            },
+            {
+              "id": 3,
+              "name": "腊肠风味披萨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/pz.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "51"
+            }
+          ]
+        },
+        {
+          "name": "年夜饭",
+          "number": 0,
+          "title": "祝大家新快乐，万事如意。"
+        },
+        {
+          "name": "意面",
+          "number": 0,
+          "title": "经典意面，值得你拥有。"
+        },
+        {
+          "name": "披萨",
+          "number": 0,
+          "title": "鲜虾披萨，第二份半价。"
+        },
+        {
+          "name": "饮品",
+          "number": 0,
+          "title": "夏日最爱，酸梅汤免费送。"
+        }
+      ]
+    },
+    {
+      "title": "绝味鸭脖（上地店）",
+      "img": "https://xiaowu0371.github.io/static/img/restaurant/9.jpg",
+      "level": 4,
+      "salesVolume": 3978,
+      "delivery": 4,
+      "minConsumption": 20,
+      "distance": 789,
+      "time": 37,
+      "brand": false,
+      "service": false,
+      "isFengNiao": true,
+      "onTime": true,
+      "food": [
+        {
+          "name": "热销榜",
+          "number": 2,
+          "title": "没有什么比人气更能说明问题。",
+          "menu": [
+            {
+              "id": 1,
+              "name": "黄焖鸡",
+              "img": "https://xiaowu0371.github.io/static/img/foot/hmj.jpg",
+              "salesVolume": "345",
+              "evaluation": "90%",
+              "price": "22",
+              "chooseCount": 0
+            },
+            {
+              "id": 2,
+              "name": "麻辣香锅",
+              "img": "https://xiaowu0371.github.io/static/img/foot/mlt.png",
+              "salesVolume": "65",
+              "evaluation": "94%",
+              "price": [
+                {
+                  "id": 1,
+                  "title": "快乐单身",
+                  "minPrice": "20",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 2,
+                  "title": "甜蜜双人",
+                  "minPrice": "29",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 3,
+                  "title": "伙伴参",
+                  "minPrice": "40",
+                  "chooseCount": 0
+                }
+              ],
+              "chooseCount": 0
+            },
+            {
+              "id": 3,
+              "name": "红烧排骨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/hrpg.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "31"
+            }
+          ]
+        },
+        {
+          "name": "优惠",
+          "number": 3,
+          "title": "十周年庆，点餐送饮料一瓶！",
+          "menu": [
+            {
+              "id": 4,
+              "name": "干锅豆腐",
+              "img": "https://xiaowu0371.github.io/static/img/foot/ggdf.png",
+              "salesVolume": "345",
+              "evaluation": "90%",
+              "chooseCount": 0,
+              "price": "21"
+            },
+            {
+              "id": 5,
+              "name": "特惠午餐",
+              "img": "https://xiaowu0371.github.io/static/img/foot/dcf.png",
+              "salesVolume": "65",
+              "evaluation": "94%",
+              "chooseCount": 0,
+              "price": [
+                {
+                  "id": 1,
+                  "title": "基础套餐",
+                  "minPrice": "15",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 2,
+                  "title": "中级套餐",
+                  "minPrice": "25",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 3,
+                  "title": "高级套餐",
+                  "minPrice": "30"
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "name": "干锅丫头",
+              "img": "https://xiaowu0371.github.io/static/img/foot/ggyt.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "20"
+            },
+            {
+              "id": 7,
+              "name": "麻辣小龙虾",
+              "img": "https://xiaowu0371.github.io/static/img/foot/mlxlx.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "58"
+            }
+          ]
+        },
+        {
+          "name": "经典套餐",
+          "number": 0,
+          "title": "经典夏日套餐，冰爽特惠！"
+        },
+        {
+          "name": "新品披萨限时特会",
+          "number": 0,
+          "title": "先人一步，体会不一样的味道。",
+          "menu": [
+            {
+              "id": 1,
+              "name": "鲜虾披萨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/pz.png",
+              "salesVolume": "345",
+              "evaluation": "90%",
+              "price": "52",
+              "chooseCount": 0
+            },
+            {
+              "id": 2,
+              "name": "意大利风味披萨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/pz.png",
+              "salesVolume": "65",
+              "evaluation": "94%",
+              "price": [
+                {
+                  "id": 1,
+                  "title": "小份",
+                  "minPrice": "30",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 2,
+                  "title": "中分",
+                  "minPrice": "50",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 3,
+                  "title": "大份",
+                  "minPrice": "100",
+                  "chooseCount": 0
+                }
+              ],
+              "chooseCount": 0
+            },
+            {
+              "id": 3,
+              "name": "腊肠风味披萨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/pz.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "51"
+            }
+          ]
+        },
+        {
+          "name": "年夜饭",
+          "number": 0,
+          "title": "祝大家新快乐，万事如意。"
+        },
+        {
+          "name": "意面",
+          "number": 0,
+          "title": "经典意面，值得你拥有。"
+        },
+        {
+          "name": "披萨",
+          "number": 0,
+          "title": "鲜虾披萨，第二份半价。"
+        },
+        {
+          "name": "饮品",
+          "number": 0,
+          "title": "夏日最爱，酸梅汤免费送。"
+        }
+      ]
+    },
+    {
+      "title": "宽板凳火锅",
+      "img": "https://xiaowu0371.github.io/static/img/restaurant/10.jpg",
+      "level": 4,
+      "salesVolume": 3978,
+      "delivery": 4,
+      "minConsumption": 20,
+      "distance": 789,
+      "time": 37,
+      "brand": false,
+      "service": false,
+      "isFengNiao": true,
+      "onTime": true,
+      "food": [
+        {
+          "name": "热销榜",
+          "number": 2,
+          "title": "没有什么比人气更能说明问题。",
+          "menu": [
+            {
+              "id": 1,
+              "name": "黄焖鸡",
+              "img": "https://xiaowu0371.github.io/static/img/foot/hmj.jpg",
+              "salesVolume": "345",
+              "evaluation": "90%",
+              "price": "22",
+              "chooseCount": 0
+            },
+            {
+              "id": 2,
+              "name": "麻辣香锅",
+              "img": "https://xiaowu0371.github.io/static/img/foot/mlt.png",
+              "salesVolume": "65",
+              "evaluation": "94%",
+              "price": [
+                {
+                  "id": 1,
+                  "title": "快乐单身",
+                  "minPrice": "20",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 2,
+                  "title": "甜蜜双人",
+                  "minPrice": "29",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 3,
+                  "title": "伙伴参",
+                  "minPrice": "40",
+                  "chooseCount": 0
+                }
+              ],
+              "chooseCount": 0
+            },
+            {
+              "id": 3,
+              "name": "红烧排骨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/hrpg.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "31"
+            }
+          ]
+        },
+        {
+          "name": "优惠",
+          "number": 3,
+          "title": "十周年庆，点餐送饮料一瓶！",
+          "menu": [
+            {
+              "id": 4,
+              "name": "干锅豆腐",
+              "img": "https://xiaowu0371.github.io/static/img/foot/ggdf.png",
+              "salesVolume": "345",
+              "evaluation": "90%",
+              "chooseCount": 0,
+              "price": "21"
+            },
+            {
+              "id": 5,
+              "name": "特惠午餐",
+              "img": "https://xiaowu0371.github.io/static/img/foot/dcf.png",
+              "salesVolume": "65",
+              "evaluation": "94%",
+              "chooseCount": 0,
+              "price": [
+                {
+                  "id": 1,
+                  "title": "基础套餐",
+                  "minPrice": "15",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 2,
+                  "title": "中级套餐",
+                  "minPrice": "25",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 3,
+                  "title": "高级套餐",
+                  "minPrice": "30"
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "name": "干锅丫头",
+              "img": "https://xiaowu0371.github.io/static/img/foot/ggyt.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "20"
+            },
+            {
+              "id": 7,
+              "name": "麻辣小龙虾",
+              "img": "https://xiaowu0371.github.io/static/img/foot/mlxlx.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "58"
+            }
+          ]
+        },
+        {
+          "name": "经典套餐",
+          "number": 0,
+          "title": "经典夏日套餐，冰爽特惠！"
+        },
+        {
+          "name": "新品披萨限时特会",
+          "number": 0,
+          "title": "先人一步，体会不一样的味道。",
+          "menu": [
+            {
+              "id": 1,
+              "name": "鲜虾披萨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/pz.png",
+              "salesVolume": "345",
+              "evaluation": "90%",
+              "price": "52",
+              "chooseCount": 0
+            },
+            {
+              "id": 2,
+              "name": "意大利风味披萨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/pz.png",
+              "salesVolume": "65",
+              "evaluation": "94%",
+              "price": [
+                {
+                  "id": 1,
+                  "title": "小份",
+                  "minPrice": "30",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 2,
+                  "title": "中分",
+                  "minPrice": "50",
+                  "chooseCount": 0
+                },
+                {
+                  "id": 3,
+                  "title": "大份",
+                  "minPrice": "100",
+                  "chooseCount": 0
+                }
+              ],
+              "chooseCount": 0
+            },
+            {
+              "id": 3,
+              "name": "腊肠风味披萨",
+              "img": "https://xiaowu0371.github.io/static/img/foot/pz.png",
+              "salesVolume": "645",
+              "evaluation": "89%",
+              "chooseCount": 0,
+              "price": "51"
+            }
+          ]
+        },
+        {
+          "name": "年夜饭",
+          "number": 0,
+          "title": "祝大家新快乐，万事如意。"
+        },
+        {
+          "name": "意面",
+          "number": 0,
+          "title": "经典意面，值得你拥有。"
+        },
+        {
+          "name": "披萨",
+          "number": 0,
+          "title": "鲜虾披萨，第二份半价。"
+        },
+        {
+          "name": "饮品",
+          "number": 0,
+          "title": "夏日最爱，酸梅汤免费送。"
+        }
+      ]
+    }
+  ]
+}

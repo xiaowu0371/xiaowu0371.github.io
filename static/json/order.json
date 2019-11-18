@@ -1,0 +1,38 @@
+{
+    "order":[
+        {
+            "id": 1,
+            "title": "官氏翅吧（上地店）",
+            "img": "https://xiaowu0371.github.io/static/img/restaurant/6.jpg",
+            "discount": [
+                "22减10"
+            ],
+            "state": "骑手已取货",
+            "orderMenu": [
+                {
+                    "title": "(招牌菜)特色烤鸡翅",
+                    "img": "https://xiaowu0371.github.io/static/img/foot/kjc.png",
+                    "number": 1,
+                    "price": 10
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "杨国富麻辣烫（中关村店）",
+            "img": "https://xiaowu0371.github.io/static/img/restaurant/3.jpg",
+            "discount": [
+                "22减10"
+            ],
+            "state": "完成",
+            "orderMenu": [
+                {
+                    "title": "女神套餐（娃娃菜+菠菜+土豆片+金针菇+香菇+午餐肉+鱼丸）",
+                    "img": "https://xiaowu0371.github.io/static/img/foot/mlt.png",
+                    "number": 1,
+                    "price": 28
+                }
+            ]
+        }      
+    ]
+}
